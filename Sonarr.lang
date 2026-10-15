@@ -1,0 +1,97 @@
+[en-us]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[zh-cn]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[zh-hk]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[ja-jp]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[de-de]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[fr-fr]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[it-it]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[es-es]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[ko-kr]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[hu-hu]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[pl-pl]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[ru-ru]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[tr-tr]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
+
+[pt-pt]
+name = "Sonarr"
+auth = "Sonarr"
+descript = "Smart PVR for newsgroup users"
+release_note = "Bundles Sonarr v4.0.20.3014 packed from source""
+important    = "The application run as user Sonarr"
